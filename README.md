@@ -46,9 +46,3 @@ Esse tipo de rede é fundamental para estudar **estrutura da web, centralidade e
 ## 🔎 Objetivo da Análise
 
 O objetivo deste projeto é investigar se a rede apresenta comportamento de **rede de escala livre (Scale-Free Network)**.
-
-Redes de escala livre possuem uma característica importante:
-
-> A distribuição de graus segue uma **lei de potência**.
-
-Matematicamente:
